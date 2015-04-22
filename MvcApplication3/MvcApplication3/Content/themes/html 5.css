@@ -1,0 +1,46 @@
+
+
+
+header {
+    color: blue;
+}
+
+ul.nav li  {
+    color: white;
+    display: inline; 
+    padding: 6px 10px 6px 10px
+}
+ul.nav li a:hover {
+padding: 6px 10px 6px 10px;
+font-weight: bold;
+background: blue;
+color: white
+}
+ul.nav a.selected {
+background: green;
+}
+
+div.block {
+background-color: white;
+margin: 20px;
+padding: 20px
+}
+div.blockRamka 
+{
+    background: blue;
+    margin: 2px;
+    padding: 2px;
+
+article {
+    color: black;
+}
+
+aside {
+    color: gray;
+}
+sidebar{
+    width:300px;
+    display: block;
+    float: left;
+    margin: 0 0 0 -100%;    
+}
