@@ -10,15 +10,13 @@ ul.nav li  {
     display: inline; 
     padding: 6px 10px 6px 10px
 }
-ul.nav li a:hover {
+ul.nav li a:hover, ul.nav a:active {
 padding: 6px 10px 6px 10px;
 font-weight: bold;
 background: blue;
 color: white
 }
-ul.nav a.selected {
-background: green;
-}
+
 
 div.block {
 background-color: white;
