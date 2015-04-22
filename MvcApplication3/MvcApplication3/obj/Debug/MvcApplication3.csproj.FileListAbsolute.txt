@@ -38,3 +38,44 @@ c:\users\bumbarash\documents\visual studio 2010\Projects\MvcApplication3\MvcAppl
 c:\users\bumbarash\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\bin\ru\System.Web.WebPages.Razor.resources.dll
 c:\users\bumbarash\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
 c:\users\bumbarash\documents\visual studio 2010\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\MvcApplication3.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\MvcApplication3.pdb
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.WebRequest.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Http.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Razor.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\Newtonsoft.Json.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.Formatting.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Net.Http.WebRequest.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Helpers.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Http.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Http.WebHost.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Mvc.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.Razor.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Net.Http.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Net.Http.WebRequest.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.Helpers.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.Http.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.Mvc.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.Razor.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.WebPages.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
+D:\Open_Rus\Код\webdev\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb

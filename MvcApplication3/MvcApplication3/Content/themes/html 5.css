@@ -30,13 +30,18 @@ div.blockRamka
     background: blue;
     margin: 2px;
     padding: 2px;
+}
 
 article {
     color: black;
+     border: 4px double black; 
+    background: #fc3; 
+    padding: 10px; 
 }
 
 aside {
     color: gray;
+    text-align: right;
 }
 sidebar{
     width:300px;
