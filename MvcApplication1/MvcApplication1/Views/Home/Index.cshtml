@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html>
+    <head>
+        <title>rectExample</title>
+        <meta charset='utf-8' />
+    </head>
+    <body>
+        
+        <canvas id='example'>Обновите браузер</canvas>
+        <script>
+
+            var example = document.getElementById("example"),
+                ctx = example.getContext('2d');
+
+            example.width = 640;
+            example.height = 480;
+            ctx.fillStyle = 'blue';
+            ctx.fillRect(0, 0, 640, example.height / 2);
+            ctx.fillStyle = 'green';
+            ctx.fillRect(0, example.height / 2, 640, example.height / 2);
+            ctx.fillStyle = 'yellow';
+            ctx.beginPath();            
+            ctx.arc(100, 100, 50, 0, Math.PI * 2, true);
+            ctx.fill();
+
+        </script>
+    </body>
+</html>
