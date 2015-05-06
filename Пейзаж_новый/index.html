@@ -1,0 +1,71 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var canvas, ctx, day=1;
+			var position = {x:100,y:0};
+			function start()
+			{
+				canvas=document.getElementById("canvas");
+				
+				ctx=canvas.getContext("2d");
+				function word()
+				{
+					if(day==1)
+					{
+						if(position.y<150)
+						{
+						
+							ctx.beginPath();
+							ctx.fillStyle = "blue";
+							ctx.fillRect(0,0,300,150)
+							ctx.fillStyle = "green";
+							ctx.fillRect(0,150,300,150)
+							
+							ctx.beginPath();
+							ctx.fillStyle = "yellow";
+							ctx.arc(position.x,position.y,20,0,2*Math.PI, true);
+							ctx.closePath();
+							ctx.fill();
+							position.y+=1;
+							}
+							
+						else
+						{
+							day=0;								
+							position.y=0;
+						}
+					}
+					else if(day == 0)
+					{
+						if(position.y<150)
+						{
+						
+							ctx.beginPath();
+							ctx.fillStyle = "black";
+							ctx.fillRect(0,0,300,150)
+							ctx.fillStyle = "brown";
+							ctx.fillRect(0,150,300,150)
+							
+							ctx.beginPath();
+							ctx.fillStyle = "grey";
+							ctx.arc(position.x,position.y,20,0,2*Math.PI, true);
+							ctx.closePath();
+							ctx.fill();
+							position.y+=1;
+							}
+						else
+						{
+							day=1;								
+							position.y=0;
+						}
+					}
+				}
+				setInterval(word,30);
+				
+			}
+		</script>
+	</head>
+	<body onload="start()">
+		<canvas id="canvas" width="400" height="300"></canvas>
+	</body>
+</html>
