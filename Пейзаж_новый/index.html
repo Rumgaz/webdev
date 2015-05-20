@@ -2,7 +2,7 @@
 	<head>
 		<script type="text/javascript">
 			var canvas, ctx, day=1;
-			var position = {x:100,y:0};
+			var position = {x:0,y:0};
 			function start()
 			{
 				canvas=document.getElementById("canvas");
@@ -18,21 +18,26 @@
 							ctx.beginPath();
 							ctx.fillStyle = "blue";
 							ctx.fillRect(0,0,300,150)
-							ctx.fillStyle = "green";
-							ctx.fillRect(0,150,300,150)
 							
 							ctx.beginPath();
 							ctx.fillStyle = "yellow";
 							ctx.arc(position.x,position.y,20,0,2*Math.PI, true);
 							ctx.closePath();
 							ctx.fill();
+							
+							ctx.fillStyle = "green";
+							ctx.fillRect(0,150,300,150)
+							
+							
 							position.y+=1;
+							position.x+=1;
 							}
 							
 						else
 						{
 							day=0;								
 							position.y=0;
+							position.x=0;
 						}
 					}
 					else if(day == 0)
@@ -43,20 +48,24 @@
 							ctx.beginPath();
 							ctx.fillStyle = "black";
 							ctx.fillRect(0,0,300,150)
-							ctx.fillStyle = "brown";
-							ctx.fillRect(0,150,300,150)
 							
 							ctx.beginPath();
 							ctx.fillStyle = "grey";
 							ctx.arc(position.x,position.y,20,0,2*Math.PI, true);
 							ctx.closePath();
-							ctx.fill();
+							ctx.fill();							
+							
+							ctx.fillStyle = "#159033 ";
+							ctx.fillRect(0,150,300,150)							
+							
 							position.y+=1;
+							position.x+=1;
 							}
 						else
 						{
 							day=1;								
 							position.y=0;
+							position.x=0;
 						}
 					}
 				}
